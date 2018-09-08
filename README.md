@@ -1,6 +1,6 @@
 # Main
 original solver file
 
-I have no idea what I'm doing.
+This is just me practicing using GitHub, please ignore!
 
 
